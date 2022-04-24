@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "strictNullChecks": false,
+    "lib": ["ESNext", "DOM"],
+    "noImplicitAny": false,
+    "types": ["./node_modules/@withfig/autocomplete-types/index.d.ts"]
+  }
+}

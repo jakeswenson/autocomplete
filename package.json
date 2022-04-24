@@ -63,10 +63,12 @@
   "devDependencies": {
     "@fig/autocomplete-generators": "^1.0.0",
     "@fig/eslint-config-autocomplete": "^1.1.0",
+    "@octokit/core": ">=3",
     "@types/inquirer": "^7.3.1",
     "@types/node": "^14.14.33",
     "@types/progress": "^2.0.3",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.0.0",
     "@withfig/autocomplete-tools": "^2.7.1",
     "@withfig/autocomplete-types": "^1.11.0",
     "chalk": "^4.1.0",
